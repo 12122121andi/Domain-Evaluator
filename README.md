@@ -28,8 +28,3 @@ An end-to-end domain name appraisal system that predicts market values of domain
 ![PowerBI overview](screenshots/Overview.png)
 
 
-![.com TLD specific overview](screenshots/TLD_COM.png)
-
-
-![Specific overview for domains with 1 word](screenshots/One_word.png)
-
