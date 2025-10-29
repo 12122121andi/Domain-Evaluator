@@ -19,4 +19,7 @@ An end-to-end domain name appraisal system that predicts market values of domain
 7. Optuna for model optimization
 
    **Future Updates**
-   Quantile Regression for
+   Quantile Regression for better outcomes across different ranges of data
+   Splitting into different models for different ranges of data
+   Chatgpt integration for industry insights
+   Integrating SEO infomation
