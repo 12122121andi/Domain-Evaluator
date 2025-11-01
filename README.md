@@ -28,3 +28,7 @@ An end-to-end domain name appraisal system that predicts market values of domain
 ![PowerBI overview](screenshots/Overview.png)
 
 
+
+(Last updated October)
+
+
