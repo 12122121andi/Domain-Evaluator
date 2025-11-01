@@ -29,6 +29,6 @@ An end-to-end domain name appraisal system that predicts market values of domain
 
 
 
-(Last updated October)
+(Last updated October 2025)
 
 
